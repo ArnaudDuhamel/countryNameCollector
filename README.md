@@ -281,7 +281,7 @@ go run main.go
 ```
 ## Usage
 
-This list came to use for while doing an assignment on creating a server that was collecting information from the university API mentioned above. But, I wanted to check locally if the request to my server contained a valid country name. So as to ensure that the request that I would send to the university API would succeed and therefore spare the university API unnecessary traffic. 
+This list came to use for me while doing an assignment in the Cloud Technologies course of spring 2023 on creating a server that was collecting information from the university API mentioned above. But, I wanted to check locally if the request to my server contained a valid country name. So as to ensure that the request that I would send to the university API would succeed and therefore spare the university API unnecessary traffic. 
 
 If the country parameter of the URL request to my server was not equal to a country name in the list, the request would be rejected with a bad request status code.
 
