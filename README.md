@@ -285,6 +285,8 @@ This list came to use for while doing an assignment on creating a server that wa
 
 If the country parameter of the URL request to my server was not equal to a country name in the list, the request would be rejected with a bad request status code.
 
+I wanted the list to be hard coded in the code base so that a developper could see and examine its content.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
