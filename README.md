@@ -6,7 +6,7 @@ This program collects the country names from this API's endpoint:
 https://restcountries.com/v3.1/all
 ```
 
-And creates the following data structure out of it: 
+And creates the following Golang data structure out of it: 
 
 ```
 var COUNTRYNAMES = []string{
@@ -273,7 +273,7 @@ git clone https://github.com/ArnaudDuhamel/countryNameCollector.git
 Open the project folder in a Golang IDE and create the runner
 command under. 
 
-If Go is installed on the computer, open a terminal window, go to
+If Golang is installed on the computer, open a terminal window, go to
 the project folder and run the command under.
 
 ```bash
